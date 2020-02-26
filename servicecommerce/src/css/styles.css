@@ -73,6 +73,7 @@ main {
 
 .left-navigation-bar div {
   margin-top: 40px;
+  cursor: pointer;
 }
 
 .second-container {
@@ -104,6 +105,16 @@ main {
   padding: 5px;
   padding-left: 20px;
   font-size: 80%;
+  cursor: pointer;
+}
+
+.second-container nav ul li:hover {
+    font-weight: bold;
+}
+
+.second-container nav ul li:active {
+    color: rgb(28, 111, 189);
+    font-weight: bold;
 }
 
 .second-container main {
