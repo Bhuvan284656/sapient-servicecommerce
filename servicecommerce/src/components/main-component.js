@@ -21,12 +21,9 @@ const Main = props => {
           <li>Palo</li>
         </ul>
       </nav>
-      
+
       <main>
-      
-          <div className="report-content">
-              Content
-          </div>
+        <div className="report-content">Content</div>
         <p>
           Be me shall purse my ought times. Joy years doors all would again
           rooms these. Solicitude announcing as to sufficient my. No my reached
@@ -82,9 +79,9 @@ const Main = props => {
           advantages sufficient put. John on time down give meet help as of. Him
           waiting and correct believe now cottage she another. Vexed six shy yet
           along learn maids her tiled. Through studied shyness evening bed him
-          winding present. Become excuse hardly on my thirty it wanted.
-          Be me shall purse my ought times. Joy years doors all would again
-          rooms these. Solicitude announcing as to sufficient my. No my reached
+          winding present. Become excuse hardly on my thirty it wanted. Be me
+          shall purse my ought times. Joy years doors all would again rooms
+          these. Solicitude announcing as to sufficient my. No my reached
           suppose proceed pressed perhaps he. Eagerness it delighted pronounce
           repulsive furniture no. Excuse few the remain highly feebly add people
           manner say. It high at my mind by roof. No wonder worthy in dinner. Be
@@ -137,9 +134,9 @@ const Main = props => {
           advantages sufficient put. John on time down give meet help as of. Him
           waiting and correct believe now cottage she another. Vexed six shy yet
           along learn maids her tiled. Through studied shyness evening bed him
-          winding present. Become excuse hardly on my thirty it wanted.
-          Be me shall purse my ought times. Joy years doors all would again
-          rooms these. Solicitude announcing as to sufficient my. No my reached
+          winding present. Become excuse hardly on my thirty it wanted. Be me
+          shall purse my ought times. Joy years doors all would again rooms
+          these. Solicitude announcing as to sufficient my. No my reached
           suppose proceed pressed perhaps he. Eagerness it delighted pronounce
           repulsive furniture no. Excuse few the remain highly feebly add people
           manner say. It high at my mind by roof. No wonder worthy in dinner. Be
@@ -192,9 +189,9 @@ const Main = props => {
           advantages sufficient put. John on time down give meet help as of. Him
           waiting and correct believe now cottage she another. Vexed six shy yet
           along learn maids her tiled. Through studied shyness evening bed him
-          winding present. Become excuse hardly on my thirty it wanted.
-          Be me shall purse my ought times. Joy years doors all would again
-          rooms these. Solicitude announcing as to sufficient my. No my reached
+          winding present. Become excuse hardly on my thirty it wanted. Be me
+          shall purse my ought times. Joy years doors all would again rooms
+          these. Solicitude announcing as to sufficient my. No my reached
           suppose proceed pressed perhaps he. Eagerness it delighted pronounce
           repulsive furniture no. Excuse few the remain highly feebly add people
           manner say. It high at my mind by roof. No wonder worthy in dinner. Be
@@ -247,9 +244,9 @@ const Main = props => {
           advantages sufficient put. John on time down give meet help as of. Him
           waiting and correct believe now cottage she another. Vexed six shy yet
           along learn maids her tiled. Through studied shyness evening bed him
-          winding present. Become excuse hardly on my thirty it wanted.
-          Be me shall purse my ought times. Joy years doors all would again
-          rooms these. Solicitude announcing as to sufficient my. No my reached
+          winding present. Become excuse hardly on my thirty it wanted. Be me
+          shall purse my ought times. Joy years doors all would again rooms
+          these. Solicitude announcing as to sufficient my. No my reached
           suppose proceed pressed perhaps he. Eagerness it delighted pronounce
           repulsive furniture no. Excuse few the remain highly feebly add people
           manner say. It high at my mind by roof. No wonder worthy in dinner. Be
@@ -302,9 +299,9 @@ const Main = props => {
           advantages sufficient put. John on time down give meet help as of. Him
           waiting and correct believe now cottage she another. Vexed six shy yet
           along learn maids her tiled. Through studied shyness evening bed him
-          winding present. Become excuse hardly on my thirty it wanted.
-          Be me shall purse my ought times. Joy years doors all would again
-          rooms these. Solicitude announcing as to sufficient my. No my reached
+          winding present. Become excuse hardly on my thirty it wanted. Be me
+          shall purse my ought times. Joy years doors all would again rooms
+          these. Solicitude announcing as to sufficient my. No my reached
           suppose proceed pressed perhaps he. Eagerness it delighted pronounce
           repulsive furniture no. Excuse few the remain highly feebly add people
           manner say. It high at my mind by roof. No wonder worthy in dinner. Be
@@ -357,9 +354,9 @@ const Main = props => {
           advantages sufficient put. John on time down give meet help as of. Him
           waiting and correct believe now cottage she another. Vexed six shy yet
           along learn maids her tiled. Through studied shyness evening bed him
-          winding present. Become excuse hardly on my thirty it wanted.
-          Be me shall purse my ought times. Joy years doors all would again
-          rooms these. Solicitude announcing as to sufficient my. No my reached
+          winding present. Become excuse hardly on my thirty it wanted. Be me
+          shall purse my ought times. Joy years doors all would again rooms
+          these. Solicitude announcing as to sufficient my. No my reached
           suppose proceed pressed perhaps he. Eagerness it delighted pronounce
           repulsive furniture no. Excuse few the remain highly feebly add people
           manner say. It high at my mind by roof. No wonder worthy in dinner. Be
@@ -412,9 +409,9 @@ const Main = props => {
           advantages sufficient put. John on time down give meet help as of. Him
           waiting and correct believe now cottage she another. Vexed six shy yet
           along learn maids her tiled. Through studied shyness evening bed him
-          winding present. Become excuse hardly on my thirty it wanted.
-          Be me shall purse my ought times. Joy years doors all would again
-          rooms these. Solicitude announcing as to sufficient my. No my reached
+          winding present. Become excuse hardly on my thirty it wanted. Be me
+          shall purse my ought times. Joy years doors all would again rooms
+          these. Solicitude announcing as to sufficient my. No my reached
           suppose proceed pressed perhaps he. Eagerness it delighted pronounce
           repulsive furniture no. Excuse few the remain highly feebly add people
           manner say. It high at my mind by roof. No wonder worthy in dinner. Be
@@ -467,9 +464,9 @@ const Main = props => {
           advantages sufficient put. John on time down give meet help as of. Him
           waiting and correct believe now cottage she another. Vexed six shy yet
           along learn maids her tiled. Through studied shyness evening bed him
-          winding present. Become excuse hardly on my thirty it wanted.
-          Be me shall purse my ought times. Joy years doors all would again
-          rooms these. Solicitude announcing as to sufficient my. No my reached
+          winding present. Become excuse hardly on my thirty it wanted. Be me
+          shall purse my ought times. Joy years doors all would again rooms
+          these. Solicitude announcing as to sufficient my. No my reached
           suppose proceed pressed perhaps he. Eagerness it delighted pronounce
           repulsive furniture no. Excuse few the remain highly feebly add people
           manner say. It high at my mind by roof. No wonder worthy in dinner. Be
