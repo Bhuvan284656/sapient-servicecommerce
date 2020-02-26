@@ -45,8 +45,14 @@ header {
   margin-right: 20px;
 }
 
-.filter {
+header .filter-product{
+    border-left: 1px solid  rgb(219, 218, 218);
+    padding: 0 20px;
+}
+
+.header-filters .filter {
   margin-right: 20px;
+  cursor: pointer;
 }
 
 .react-icons-arrow-down {

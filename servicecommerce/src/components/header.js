@@ -20,7 +20,7 @@ const Header = props => {
               <IoIosArrowDown></IoIosArrowDown>
             </IconContext.Provider>
           </div>
-          <div className="filter">
+          <div className="filter filter-product">
             Amazon{" "}
             <IconContext.Provider
               value={{ className: "react-icons-arrow-down" }}
