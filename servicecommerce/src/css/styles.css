@@ -10,7 +10,7 @@ header {
   z-index: 1;
   background-color: #ffffff;
   height: 90px;
-  padding: 10px;
+  padding: 0 10px;
 }
 
 .header-logo {
@@ -58,8 +58,7 @@ main {
   position: absolute;
   display: flex;
   flex-direction: row;
-  top: 100px;
-  padding: 10px;
+  top: 90px;
 }
 
 .left-navigation-bar {
@@ -92,7 +91,7 @@ main {
   background-color: silver;
   height: 100%;
   width: 100%;
-  border-top-left-radius: 10PX;
+  border-top-left-radius: 10px;
 }
 
 .second-container nav ul {
@@ -107,16 +106,30 @@ main {
 }
 
 .second-container main {
-  border-top-left-radius: 10px;
-  border-top: 1px solid silver;
-  background-color: #ffffff;
-  padding: 5px;
-  text-align: justify;
   position: absolute;
   flex: 1;
-  top:0;
+  top: 0px;
   left: 180px;
-  width: calc(100vw - 240px);
+  width: calc(100vw - 238px);
   display: flex;
   flex-direction: column;
+}
+
+.report-content {
+  border-top-left-radius: 10px;
+  border-top: 1px solid silver;
+  position: fixed;
+  top: 90px;
+  background-color: #ffffff;
+  width: 100%;
+  z-index: 1;
+  height: 25px;
+}
+
+.second-container main p {
+  padding: 5px;
+  position: absolute;
+  background-color: #ffffff;
+  text-align: justify;
+  top: 25px;
 }

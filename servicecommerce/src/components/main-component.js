@@ -21,7 +21,9 @@ const Main = props => {
           <li>Palo</li>
         </ul>
       </nav>
+      
       <main>
+      
           <div className="report-content">
               Content
           </div>
