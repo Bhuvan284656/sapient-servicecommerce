@@ -23,7 +23,9 @@ const Main = props => {
       </nav>
 
       <main>
-        <div className="report-content">Content</div>
+        <div className="report-content">
+            Content
+            </div>
         <p>
           Be me shall purse my ought times. Joy years doors all would again
           rooms these. Solicitude announcing as to sufficient my. No my reached
